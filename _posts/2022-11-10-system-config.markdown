@@ -47,6 +47,7 @@ Quality of Life Improvements
 Right now you can start a WSL session any time you like by opening Ubuntu XX.XX on Windows. Personally, I prefer a more modern interface with the ability to have multiple tabs and customisable formatting. You can do this by downloading Terminal from the Microsoft Store. When you open it up for the first time it will default to PowerShell, but you can change that to your WSL shell using the settings:
 
 ![Installing Terminal](/assets/2022-11-15/TerminalInstall.png)
+
 ![Setting Default Profile](/assets/2022-11-15/TerminalDefault.png)
 
 Now whenever you want to use WSL, just open Terminal! Moving around file systems without File Explorer can feel alien at first, so feel free to practice making a folder using `mkdir`, listing items in the current folder using `ls`, and changing to different folders using `cd`. These commands will quickly become second nature. If you ever get lost and need to go back to your home directory, just use `cd` without any arguments.
